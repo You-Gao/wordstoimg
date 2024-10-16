@@ -1,0 +1,34 @@
+cs1110: intro to programming
+egmt1520: big data and history
+egmt1510: are oldies goodies?
+phil3110: plato
+stat2120: intro to statistics
+
+bme1501: advancing equitable solutions
+cs2100: data structures 1
+cs2120: discrete math 1
+cs2130: computer systems 1
+egmt1510: death, hell, and judgement
+egmt1520: making medicines good
+engr1501: how to perform research
+
+cs3100: data structures 2
+cs3120: discrete math 2
+cs3130: computer systems 2
+cs3710: intro to cybersecurity
+cs3140: software engineering
+inst2500: global/local discussions
+wgs4800: theory seminar: queer theory
+
+amst3180:  asian american studies 
+cs3240: advanced software development
+ds2004: data ethics 
+inst2500: global/local discussions
+phil1330: virtual worlds and philosophy
+sarc5400: data visualization
+
+amst4559: archives, memory, and materiality
+cs4620: compilers
+cs4630: defense against the dark arts
+gds3100: global development theory 1
+gds3010: development on the ground
